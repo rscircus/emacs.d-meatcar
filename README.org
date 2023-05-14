@@ -1,1 +1,3 @@
-config.org
+* config.org
+
+Once your config.org is ready, you can tangle it. Open config.org in Emacs, then run the command org-babel-tangle (bound to =C-c C-v t= by default). This will extract the code blocks and write them to the specified files.
